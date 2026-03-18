@@ -1,7 +1,7 @@
 # ZeroWork-Tools 🚀
 > **Windowsの上に乗る、実務特化型の「自動化OS」プロトタイプ**
 
-![ZeroWork-Tools Icon](ここにアイコン画像のURL)
+![ZeroWork-Tools Icon](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3742490/deb4c09e-5ba8-4e13-a646-0c550bdda2dc.png)
 
 ZeroWork-Toolsは、単なるAIアプリではありません。最新のVision LLM（Gemini 2.5 Flash）を核に、Windowsデスクトップ上のあらゆるアナログ作業をデジタル資産へと変錬する、次世代の**「自動化パイプライン」**です。
 
